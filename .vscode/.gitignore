@@ -1,0 +1,16 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Game data (so each person starts fresh)
+highest_score.txt
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
